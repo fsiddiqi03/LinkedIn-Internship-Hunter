@@ -1,1 +1,1 @@
-### LinkedIn Internship Hunter
+# LinkedIn Internship Hunter
